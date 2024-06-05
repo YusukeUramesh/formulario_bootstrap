@@ -1,0 +1,17 @@
+h1 {
+padding: 2%;
+
+}
+
+form {
+    width: 30%;
+    margin-left: 5%;
+}
+
+label {
+    margin-top: 15px;
+}
+
+button {
+    margin-top: 20px;
+}
